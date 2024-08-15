@@ -10,6 +10,8 @@
 		DDC569822C6E7C89000C73D5 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC569812C6E7C88000C73D5 /* ColorExtension.swift */; };
 		DDC569842C6E80C0000C73D5 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC569832C6E80C0000C73D5 /* CustomButtonView.swift */; };
 		DDC569862C6E85B7000C73D5 /* GradientButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC569852C6E85B7000C73D5 /* GradientButtonStyle.swift */; };
+		DDC569882C6EA4E6000C73D5 /* CustomCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC569872C6EA4E6000C73D5 /* CustomCircleView.swift */; };
+		DDC5698A2C6EA66B000C73D5 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC569892C6EA66B000C73D5 /* MotionAnimationView.swift */; };
 		DDDD60782C6C05590054514A /* RitzHikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDD60772C6C05590054514A /* RitzHikeApp.swift */; };
 		DDDD607A2C6C05590054514A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDD60792C6C05590054514A /* ContentView.swift */; };
 		DDDD607C2C6C055C0054514A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDDD607B2C6C055C0054514A /* Assets.xcassets */; };
@@ -22,6 +24,8 @@
 		DDC569812C6E7C88000C73D5 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		DDC569832C6E80C0000C73D5 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 		DDC569852C6E85B7000C73D5 /* GradientButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButtonStyle.swift; sourceTree = "<group>"; };
+		DDC569872C6EA4E6000C73D5 /* CustomCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCircleView.swift; sourceTree = "<group>"; };
+		DDC569892C6EA66B000C73D5 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		DDDD60742C6C05590054514A /* RitzHike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RitzHike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDDD60772C6C05590054514A /* RitzHikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RitzHikeApp.swift; sourceTree = "<group>"; };
 		DDDD60792C6C05590054514A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +98,8 @@
 				DDDD60852C6C07F20054514A /* CardView.swift */,
 				DDDD60882C6C09DC0054514A /* CustomBackgroundView.swift */,
 				DDC569832C6E80C0000C73D5 /* CustomButtonView.swift */,
+				DDC569872C6EA4E6000C73D5 /* CustomCircleView.swift */,
+				DDC569892C6EA66B000C73D5 /* MotionAnimationView.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -169,10 +175,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDDD607A2C6C05590054514A /* ContentView.swift in Sources */,
+				DDC569882C6EA4E6000C73D5 /* CustomCircleView.swift in Sources */,
 				DDDD60862C6C07F20054514A /* CardView.swift in Sources */,
 				DDC569842C6E80C0000C73D5 /* CustomButtonView.swift in Sources */,
 				DDDD60782C6C05590054514A /* RitzHikeApp.swift in Sources */,
 				DDC569862C6E85B7000C73D5 /* GradientButtonStyle.swift in Sources */,
+				DDC5698A2C6EA66B000C73D5 /* MotionAnimationView.swift in Sources */,
 				DDDD60892C6C09DC0054514A /* CustomBackgroundView.swift in Sources */,
 				DDC569822C6E7C89000C73D5 /* ColorExtension.swift in Sources */,
 			);
