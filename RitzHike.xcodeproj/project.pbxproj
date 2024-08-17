@@ -13,6 +13,7 @@
 		DDC569882C6EA4E6000C73D5 /* CustomCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC569872C6EA4E6000C73D5 /* CustomCircleView.swift */; };
 		DDC5698A2C6EA66B000C73D5 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC569892C6EA66B000C73D5 /* MotionAnimationView.swift */; };
 		DDC5698D2C6EAE95000C73D5 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC5698C2C6EAE95000C73D5 /* SettingsView.swift */; };
+		DDC5698F2C6F2510000C73D5 /* CustomListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC5698E2C6F2510000C73D5 /* CustomListRowView.swift */; };
 		DDDD60782C6C05590054514A /* RitzHikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDD60772C6C05590054514A /* RitzHikeApp.swift */; };
 		DDDD607A2C6C05590054514A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDD60792C6C05590054514A /* ContentView.swift */; };
 		DDDD607C2C6C055C0054514A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDDD607B2C6C055C0054514A /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		DDC569872C6EA4E6000C73D5 /* CustomCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCircleView.swift; sourceTree = "<group>"; };
 		DDC569892C6EA66B000C73D5 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		DDC5698C2C6EAE95000C73D5 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		DDC5698E2C6F2510000C73D5 /* CustomListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRowView.swift; sourceTree = "<group>"; };
 		DDDD60742C6C05590054514A /* RitzHike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RitzHike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDDD60772C6C05590054514A /* RitzHikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RitzHikeApp.swift; sourceTree = "<group>"; };
 		DDDD60792C6C05590054514A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				DDC569832C6E80C0000C73D5 /* CustomButtonView.swift */,
 				DDC569872C6EA4E6000C73D5 /* CustomCircleView.swift */,
 				DDC569892C6EA66B000C73D5 /* MotionAnimationView.swift */,
+				DDC5698E2C6F2510000C73D5 /* CustomListRowView.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				DDDD607A2C6C05590054514A /* ContentView.swift in Sources */,
 				DDC569882C6EA4E6000C73D5 /* CustomCircleView.swift in Sources */,
+				DDC5698F2C6F2510000C73D5 /* CustomListRowView.swift in Sources */,
 				DDDD60862C6C07F20054514A /* CardView.swift in Sources */,
 				DDC569842C6E80C0000C73D5 /* CustomButtonView.swift in Sources */,
 				DDDD60782C6C05590054514A /* RitzHikeApp.swift in Sources */,
